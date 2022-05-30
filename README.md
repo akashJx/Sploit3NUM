@@ -40,8 +40,8 @@ Example:
   sh sploit.sh rustscan.log
 ```
 
-### Screenshot
-- Screenshot taken with results of rustscan from PG-Practice Machine Clyde.
+### Screenshots
+- Screenshots taken with results of rustscan from PG-Practice Machine Clyde.
 
 ![Pasted image 20220530142606](https://user-images.githubusercontent.com/26841401/170957472-aeb0afc2-51fc-419f-a45d-141e11d66b50.png)
 
