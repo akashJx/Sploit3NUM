@@ -43,11 +43,10 @@ Example:
 ### Screenshot
 - Screenshot taken with results of rustscan from PG-Practice Machine Clyde.
 
-![[Pasted image 20220530142606.png]]
+![Pasted image 20220530142606](https://user-images.githubusercontent.com/26841401/170957472-aeb0afc2-51fc-419f-a45d-141e11d66b50.png)
+![Pasted image 20220530142707](https://user-images.githubusercontent.com/26841401/170957496-4b76aaa6-d895-432b-a4a5-92826cb9a3a7.png)
+![Pasted image 20220530142746](https://user-images.githubusercontent.com/26841401/170957509-68d69785-0c5a-457c-9406-fc6c22296f0c.png)
 
-![[Pasted image 20220530142707.png]]
-
-![[Pasted image 20220530142746.png]]
 
 ---
 
