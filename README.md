@@ -42,8 +42,11 @@ Example:
 
 ### Screenshot
 - Screenshot taken with results of rustscan from PG-Practice Machine Clyde.
+
 ![[Pasted image 20220530142606.png]]
+
 ![[Pasted image 20220530142707.png]]
+
 ![[Pasted image 20220530142746.png]]
 
 ---
